@@ -928,3 +928,9 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+
+.containerforcontace{
+  display: flex;
+ justify-content: center;
+ align-items: center;
+}
